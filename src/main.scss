@@ -8,6 +8,7 @@
   border: none;
   outline: none;
   width: 100%;
+  background: #ffffff;
 }
 
 .main__inner {
@@ -107,4 +108,9 @@ li {
     flex-wrap: wrap;
     gap: 61px;
     margin-bottom: 45px;
+}
+
+.img{
+  width: 260px;
+  height: 200px;
 }
